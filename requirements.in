@@ -1,0 +1,5 @@
+Django
+django-address
+django-environ
+pip-tools
+psycopg2
